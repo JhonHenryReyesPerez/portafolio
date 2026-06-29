@@ -1,4 +1,4 @@
-# Alejandro Vera — Portfolio 🚀
+# Jhon Reyes — Portfolio 🚀
 
 Portafolio personal de desarrollador web, diseñado para impresionar reclutadores y mostrar proyectos reales.
 
@@ -38,8 +38,8 @@ portfolio/
 ├── js/
 │   └── main.js         # Typewriter, nav, scroll reveal, form
 ├── assets/
-│   ├── cv-alejandro-vera.pdf  # CV descargable
-│   └── og-image.png    # Open Graph (redes sociales)
+│   ├── cv-.pdf  # CV descargable
+│   └── foto.jpeg       # Open Graph (redes sociales)
 └── README.md
 ```
 
