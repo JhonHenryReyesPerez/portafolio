@@ -2,7 +2,7 @@
 
 Portafolio personal de desarrollador web, diseñado para impresionar reclutadores y mostrar proyectos reales.
 
-**[Ver demo en vivo →](https://alejandrovera.github.io/portfolio)**
+**[Ver demo en vivo →](https://jhonhenryreyesperez.github.io/portafolio/)**
 
 ---
 
