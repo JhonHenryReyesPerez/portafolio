@@ -43,38 +43,3 @@ portfolio/
 └── README.md
 ```
 
-## 🚀 Despliegue en GitHub Pages
-
-1. Sube el proyecto a un repositorio público en GitHub
-2. Ve a **Settings → Pages**
-3. En _Source_ selecciona `main` / `root`
-4. Listo — tu portafolio estará en `https://<tu-usuario>.github.io/<repo>/`
-
-## 🔧 Personalización rápida
-
-| Qué cambiar | Dónde |
-|---|---|
-| Nombre y bio | `index.html` — secciones `hero` y `about` |
-| Foto de perfil | reemplaza el SVG en `.avatar-img` con `<img src="assets/foto.jpg" alt="..." />` |
-| Proyectos | `index.html` — sección `#projects` |
-| Stack técnico | `index.html` — sección `#skills` |
-| Colores | `css/styles.css` — bloque `:root` |
-| Links sociales | `index.html` — sección `#contact` |
-
-## 📝 Conventional Commits usados
-
-```
-feat: add hero section with typewriter animation
-feat: add glass-card component with backdrop-filter
-feat: add scroll-reveal with IntersectionObserver
-feat: add mobile navigation with hamburger toggle
-feat: add contact form with client-side validation
-style: apply glassmorphism to skill and project cards
-style: add blob background animations in hero
-fix: correct nav active state logic on scroll
-chore: add README and folder structure
-```
-
----
-
-Hecho con ❤️ por **Alejandro Vera** · [LinkedIn](https://linkedin.com/in/alejandrovera) · [GitHub](https://github.com/alejandrovera)
