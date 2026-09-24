@@ -1,5 +1,5 @@
 /* =========================================================
-   main.js — Portfolio Alejandro Vera
+   main.js — Portfolio Jhon Reyes
    ========================================================= */
 
 'use strict';
@@ -11,10 +11,11 @@
 
   const phrases = [
     'Desarrollador Web Junior',
-    'Estudiante en Campuslands 🎓',
+    'Estudiante en Campuslands',
     'Amante del código limpio',
-    'Automatización & APIs 🤖',
-    'Fullstack en construcción 🚀',
+    'Automatización & APIs',
+    'Java · Python · JavaScript',
+    'Fullstack en construcción',
   ];
 
   let phraseIdx = 0;
@@ -186,7 +187,7 @@
     submitBtn.disabled    = false;
     submitBtn.textContent = 'Enviar mensaje →';
     form.reset();
-    feedback.textContent = '✅ ¡Mensaje enviado! Te respondo pronto.';
+    feedback.textContent = '¡Mensaje enviado! Te respondo pronto.';
     feedback.classList.add('success');
 
     setTimeout(() => { feedback.textContent = ''; }, 6000);
