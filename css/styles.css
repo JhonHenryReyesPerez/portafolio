@@ -1073,3 +1073,8 @@ a   { color: inherit; text-decoration: none; }
 .skill-card__icon { width: 3rem; height: 3rem; align-items: center; justify-content: center; background: var(--accent-light); border-radius: var(--radius-md); font-size: 1.6rem; }
 .goal__icon { font-size: 3rem; }
 .project-card__badge { display: inline-flex; align-items: center; gap: 0.35rem; }
+
+
+/* Aprendizaje: filas centradas aunque queden tarjetas sueltas */
+.learning__grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.25rem; }
+.learning__grid .learning-item { flex: 0 1 calc((100% - 2.5rem) / 3); min-width: 260px; }
